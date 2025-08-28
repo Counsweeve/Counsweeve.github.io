@@ -1,9 +1,13 @@
 ---
-layout: post  # 固定值，使用主题的文章模板
-title: "Transformer 架构大模型主要衍生版本及其改进基础"  # 文章标题
-date: 2025-08-28 16:00:00  # 发布时间（格式要对）
-categories: 技术  # 分类（可选）
-tags: [GitHub, 教程]  # 标签（可选）
+layout: post
+title: Transformer 架构大模型主要衍生版本及其改进基础
+subtitle: Recent Transformers Clan
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [knody]
+comments: true
+mathjax: true
+author: Kang
 ---
 
 # Transformer 架构大模型主要衍生版本及其改进基础
@@ -651,4 +655,5 @@ Transformer 架构自 2017 年提出以来，已经发展成为人工智能领�
 随着技术的不断发展，我们可以预见 Transformer 架构将继续演化和扩展。未来的研究可能会进一步探索模型自适应性、高效计算、多模态融合和与其他计算范式（如量子计算）的结合。同时，如何提高模型的可解释性、鲁棒性和安全性，以及如何降低计算成本和资源消耗，也将是未来研究的重要方向。
 
 总的来说，Transformer 架构的发展历程展示了深度学习领域的创新活力和快速迭代能力。通过不断改进和扩展，Transformer 已经成为推动人工智能技术进步的关键驱动力，并将继续在未来的研究和应用中发挥核心作用。
+
 
